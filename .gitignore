@@ -132,3 +132,4 @@ dmypy.json
 # Files
 latlng.csv
 fatal_alligator_attacks_us.csv
+cities.csv
