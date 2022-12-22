@@ -133,3 +133,4 @@ dmypy.json
 latlng.csv
 fatal_alligator_attacks_us.csv
 cities.csv
+__pycache__
