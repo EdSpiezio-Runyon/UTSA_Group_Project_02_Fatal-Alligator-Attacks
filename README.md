@@ -1,4 +1,4 @@
-# Project_2_Fatal_Alligator_Attacks
+# UTSA Group Project 02: Fatal Alligator Attacks
 
 ![alt text](https://img.freepik.com/premium-vector/monster-crocodile-holding-america-flag-with-scary-face_120675-456.jpg)
 
